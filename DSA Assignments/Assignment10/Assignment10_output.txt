@@ -1,0 +1,638 @@
+//Output :
+
+
+WELCOME TO THE STUDENT DATABASE !!!
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+1
+
+Enter details : 
+Enter Roll number : 27
+Enter Name : Yash Nimbalkar
+Enter Division : A
+Enter Address : sjbvksfv wfno24f r c9fhinwicnwkcwc
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.y
+
+Enter details : 
+Enter Roll number : 23
+Enter Name : Zain Khan
+Enter Division : B
+Enter Address : JCNWC KJCNKWJCNWKCN DSKJCNKDSJCNLKCNOKCWC
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.N
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	27		Yash Nimbalkar		A		sjbvksfv wfno24f r c9fhinwicnwkcwc
+2	23		Zain Khan		B		JCNWC KJCNKWJCNWKCN DSKJCNKDSJCNLKCNOKCWC
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+2
+
+Enter details : 
+Enter Roll number : 26
+Enter Name : Farhan Naqvi
+Enter Division : C
+Enter Address : JCNWKCJ KCJNWO93FHWICW CIWCNWOC WCJNWOCNWCB
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.N
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	27		Yash Nimbalkar		A		sjbvksfv wfno24f r c9fhinwicnwkcwc
+2	23		Zain Khan		B		JCNWC KJCNKWJCNWKCN DSKJCNKDSJCNLKCNOKCWC
+3	26		Farhan Naqvi		C		JCNWKCJ KCJNWO93FHWICW CIWCNWOC WCJNWOCNWCB
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+4
+
+Enter the Roll Number whose record is to be searched : 27
+
+Sr.    	Roll Number	Name			Division	Address
+1	27		Yash Nimbalkar		A		sjbvksfv wfno24f r c9fhinwicnwkcwc
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+5
+
+Enter the Roll Number whose record is to be modified : 23
+
+Enter modified record : 
+
+Enter details : 
+Enter Roll number : 3
+Enter Name : Girish Bhagwat
+Enter Division : A
+Enter Address : WJCNW WKJCNOWCNOWICN98 IWUCNIWNC
+
+Record has been modified.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	27		Yash Nimbalkar		A		sjbvksfv wfno24f r c9fhinwicnwkcwc
+2	3		Girish Bhagwat		A		WJCNW WKJCNOWCNOWICN98 IWUCNIWNC
+3	26		Farhan Naqvi		C		JCNWKCJ KCJNWO93FHWICW CIWCNWOC WCJNWOCNWCB
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+6
+
+Enter the Roll Number whose record is to be deleted : 26
+
+Record has been deleted from the database.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	27		Yash Nimbalkar		A		sjbvksfv wfno24f r c9fhinwicnwkcwc
+2	3		Girish Bhagwat		A		WJCNW WKJCNOWCNOWICN98 IWUCNIWNC
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+0
+
+Thank You !
+You have ended the appliaction.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+//Test Cases 
+
+//Test Case 1 : Standard Input
+
+
+WELCOME TO THE STUDENT DATABASE !!!
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+1
+
+Enter details : 
+Enter Roll number : 2
+Enter Name : Rashi Modi
+Enter Division : A
+Enter Address : WJNOWVN WCOICWF8HWFIWC WOCINWOC
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.Y
+
+Enter details : 
+Enter Roll number : 34
+Enter Name : Gopi Modi
+Enter Division : B
+Enter Address : JNCWNC8WFWF WFIWF0W8FW98FU 
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.K
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	2		Rashi Modi		A		WJNOWVN WCOICWF8HWFIWC WOCINWOC
+2	34		Gopi Modi		B		JNCWNC8WFWF WFIWF0W8FW98FU 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+2
+
+Enter details : 
+Enter Roll number : 21
+Enter Name : Binod Varma
+Enter Division : E
+Enter Address : DWCNWCJ7 WUC9WUCHWIC WCNIWUCHWICHWCW
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.Y
+
+Enter details : 
+Enter Roll number : 38
+Enter Name : Amit Trivedi
+Enter Division : C
+Enter Address : WNCUNWIC 84RRIUFF RIFB3IFUUFHRU
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.M
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	2		Rashi Modi		A		WJNOWVN WCOICWF8HWFIWC WOCINWOC
+2	34		Gopi Modi		B		JNCWNC8WFWF WFIWF0W8FW98FU 
+3	21		Binod Varma		E		DWCNWCJ7 WUC9WUCHWIC WCNIWUCHWICHWCW
+4	38		Amit Trivedi		C		WNCUNWIC 84RRIUFF RIFB3IFUUFHRU
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+4
+
+Enter the Roll Number whose record is to be searched : 38
+
+Sr.    	Roll Number	Name			Division	Address
+1	38		Amit Trivedi		C		WNCUNWIC 84RRIUFF RIFB3IFUUFHRU
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+5
+
+Enter the Roll Number whose record is to be modified : 2
+
+Enter modified record : 
+
+Enter details : 
+Enter Roll number : 3
+Enter Name : Kinjal Modi
+Enter Division : F
+Enter Address : NWODCN7 WIEBC9WUBCWICWC WCBWIUWUHDWUCBC WCN WUCNW
+
+Record has been modified.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	3		Kinjal Modi		F		NWODCN7 WIEBC9WUBCWICWC WCBWIUWUHDWUCBC WCN WUCNW
+2	34		Gopi Modi		B		JNCWNC8WFWF WFIWF0W8FW98FU 
+3	21		Binod Varma		E		DWCNWCJ7 WUC9WUCHWIC WCNIWUCHWICHWCW
+4	38		Amit Trivedi		C		WNCUNWIC 84RRIUFF RIFB3IFUUFHRU
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+6
+
+Enter the Roll Number whose record is to be deleted : 21
+
+Record has been deleted from the database.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	3		Kinjal Modi		F		NWODCN7 WIEBC9WUBCWICWC WCBWIUWUHDWUCBC WCN WUCNW
+2	34		Gopi Modi		B		JNCWNC8WFWF WFIWF0W8FW98FU 
+3	38		Amit Trivedi		C		WNCUNWIC 84RRIUFF RIFB3IFUUFHRU
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+0
+
+Thank You !
+You have ended the appliaction.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+//Test Case 2 : With Validations
+
+
+WELCOME TO THE STUDENT DATABASE !!!
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+2
+
+You need to first create data file to add new record to it.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+You need to first create data file to display records from it.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+4
+
+You need to first create data file to search any record from it.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+5
+
+You need to first create data file to modify any record from it.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+6
+
+You need to first create data file to delete any record from it.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+1
+
+Enter details : 
+Enter Roll number : 23
+Enter Name : Yash More
+Enter Division : A
+Enter Address : jsnidowjnw wkjncowjncwc
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.y
+
+Enter details : 
+Enter Roll number : 3
+Enter Name : Farhan Naqvi
+Enter Division : B
+Enter Address : is dkcjncjn w cwijciwjnciwuc wc wihiwuw c
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.m
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+2
+
+Enter details : 
+Enter Roll number : 34
+Enter Name : Piyush Kale
+Enter Division : C
+Enter Address : JADCIWJNCR3F WUNWUCNWOICNWF WRR
+
+Record has been added.
+
+Enter 'y' or 'Y' if you want to add another entry.Else enter any other alphabet.L
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+3
+
+Sr.    	Roll Number	Name			Division	Address
+1	23		Yash More		A		jsnidowjnw wkjncowjncwc
+2	3		Farhan Naqvi		B		is dkcjncjn w cwijciwjnciwuc wc wihiwuw c
+3	34		Piyush Kale		C		JADCIWJNCR3F WUNWUCNWOICNWF WRR
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+4
+
+Enter the Roll Number whose record is to be searched : 2
+
+Record not found in the database.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+5
+
+Enter the Roll Number whose record is to be modified : 2
+
+Record not found in the database.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+6
+
+Enter the Roll Number whose record is to be deleted : 2
+
+Record not found in the database.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+8
+
+Invalid choice !
+Enter choice between 0 to 6.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Enter your choice(0 to 6) to perform following operations : 
+1. Create Data File.
+2. Add New Records in Data File.
+3. Display All Records From Data File.
+4. Search and Display Particular Record From Data File.
+5. Modify Paricular Record From Data File.
+6. Delete Particular Record From Data File.
+Enter 0 to exit.
+0
+
+Thank You !
+You have ended the appliaction.
+
+-------------------------------------------------------------------------------------------------------------------------------
