@@ -1,4 +1,9 @@
 #include<bits/stdc++.h> //header file
+#include<iostream>
+#define ll long long
+#define pi 3.1415926535897932384626
+#define mod 1e9+7
+#define endl "\n"
 using namespace std;//used to remove the ambiguity and name collision
 //number of students
 #define n 100
@@ -24,6 +29,8 @@ class student
 	int num;//private data member
 	//array of structure
 	stud s[n];
+	bool shravan=0;
+	shravan=1;
 
 public:
 	student()   //constructor
@@ -55,7 +62,7 @@ public:
 //input method to take inputs from user
 void student::input()
 {
-	cout<<"Enter number of students::";
+	cout<<"Enter number of students =";
     cin>>num;//input of total students record user want
 
 		if(num<0 || num>100)//validation student should not be negative no and should not be greater than 100
